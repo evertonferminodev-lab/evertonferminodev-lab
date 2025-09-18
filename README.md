@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Everton e sou estudante de programação.</h2>
+<h2 align="left">Olá 👋! Bem vindo ao meu GIT.</h2>
 
 ###
 
@@ -27,4 +27,9 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
 
+##
 
+<div align="left">
+    <img src="img/mario.gif" height="70" Alt="Mario">
+    <img src="img/mario2.gif" height="100" Alt="Mario">
+</div>
