@@ -31,6 +31,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/evertonferminodev-lab/evertonferminodev-lab/output/snake.svg" alt="Snake animation" />
+<img src="workflows/snake.yml" alt="Snake animation" />
 
 ###
